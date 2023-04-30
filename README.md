@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Mishra</h1>
 <h3 align="center">Graduate student at the Indian Institute of Science (IISc), specialising in Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **Natural language Processing**
+- 🔭 I’m currently working on **Natural language Processing and Recommendation System**
 
 - 🌱 I’m currently learning **Computer Vision and MLOPs**
 
