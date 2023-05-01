@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Mishra</h1>
-<h3 align="center">Graduate student at the Indian Institute of Science (IISc), specialising in Artificial Intelligence.</h3>
+<h3 align="center">Graduate student at the Indian Institute of Science (IISc), specialising in Artificial Intelligence.I like to train deep neural nets on large datasets.</h3>
 
 - 🔭 I’m currently working on **Natural language Processing and Recommendation System**
 
